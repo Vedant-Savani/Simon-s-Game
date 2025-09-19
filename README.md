@@ -9,17 +9,6 @@ The game shows a sequence of colors and sounds — the player must repeat the se
 [
 (https://vedant-savani.github.io/Simon-s-Game/)](https://vedant-savani.github.io/Simon-s-Game/)
 
-📂 Project Structure
-├── index.html      # Main game page
-├── styles.css      # Styling for buttons and layout
-├── game.js         # Game logic with jQuery
-├── sounds/         # Sound effects for each color
-│   ├── red.mp3
-│   ├── blue.mp3
-│   ├── green.mp3
-│   ├── yellow.mp3
-│   └── wrong.mp3
-└── README.md       # Documentation
 
 🕹️ How to Play
 
